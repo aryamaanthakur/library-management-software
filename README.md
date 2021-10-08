@@ -1,6 +1,6 @@
 # Library Management Software
 
-This is a small command line based script that I made as my high school project. It is a basic library management software written in python and utilising MySQL for database.
+This is a small command-line based script that I made as my high school project. It is a basic library management software developed in python and utilising MySQL for database.
 
 ## MySQL database
 
